@@ -1,0 +1,41 @@
+.corpodosite{
+    color: red;
+    font-size: 20px;
+}
+.mulher{
+    background-image: linear-gradient(red,white);
+    color: azure;
+    display: flex;
+    padding: 24px 0;
+    justify-content: space-around;
+}
+
+.aranha{
+    background-image: linear-gradient(white,black);
+    padding: 100px;
+    justify-content: center;
+}
+
+.teia{
+    background-image: linear-gradient(black,red);
+    padding: 100px;
+}
+
+.cabelho-imagem{
+    width: 15%;
+}
+
+.rodape{
+    background-image: linear-gradient(red,white);
+    color: white;
+}
+
+.uniforme{
+    padding-right: 20cm;
+    width: 20cm;
+}
+
+.Gwen{
+    padding-right: 20cm;
+    width: 20cm;
+}
